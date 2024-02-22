@@ -1,0 +1,7 @@
+name: shinobiGlory
+version: '${project.version}'
+main: eportela.shinobiglory.ShinobiGlory
+api-version: '1.16'
+authors: [empsa1]
+description: plugin for wars and shinobi strategy
+website: https://github.com/empsa1
